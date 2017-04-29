@@ -1,4 +1,5 @@
-# Hello-World
+# CleoProfile
 
-Hi y'all,
-This is a porfile file.
+Cleo Parra,
+This is my porfile file.
+![OctoKitty](p2-17SCleoparra/images/githuboctocat.jpg)
